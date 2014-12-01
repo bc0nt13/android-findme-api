@@ -4,6 +4,9 @@ android-findme-api [![Build Status](https://travis-ci.org/bc0nt13/android-findme
 #Overview
 
 FindMe API is service for sharing and tracking location between users. 
+Actual application has own repository [here](https://github.com/bc0nt13/android-findme-app).
+
+Stage deployment is available under [https://agile-brushlands-2260.herokuapp.com](https://agile-brushlands-2260.herokuapp.com)
 
 ## Authentication
 
